@@ -1,7 +1,7 @@
 ### To Fix #1 ###
 ---
 `syntax correcte malgré il y a une erreur`  
-* ***je pesne que c'est a cause les sautes de lignes***
+* ***je pesne que c'est a cause de sautes de ligne***
 
 
 
